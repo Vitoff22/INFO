@@ -1,4 +1,8 @@
 var/test.txt
 var/test.log
 var/*.log
+<<<<<<< HEAD
 *.json
+=======
+*.obj
+>>>>>>> 7d29dd94c743ba2e53edfe7685e3fd7028f00f5b
